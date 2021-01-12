@@ -1,0 +1,6 @@
+id=usbhostpermissions
+name=Inject Android Hardware USB HOST Permissions
+version=1
+versionCode=1
+author=NewBit @ XDA
+description=Inject the android.hardware.usb.host.xml file to grant permissions to USB passed through devices via QEMU.
