@@ -7,7 +7,7 @@ Injects the missing android.hardware.usb.host.xml into the /vendor/etc/permissio
 access to USB devices which were passed through the QEMU Emulator to the AVD.
 
 ### Links
-* [XDA [GUIDE] Build / Mod AVD Kernel Android10 x86_64-29 root (Magisk) USB passthrough Linux ](https://forum.xda-developers.com/t/guide-build-mod-avd-kernel-android10-x86_64-29-root-magisk-usb-passthrough-linux.4212719/)
+* [XDA [GUIDE] Build / Mod AVD Kernel Android10 x86_64-29](https://forum.xda-developers.com/t/guide-build-mod-avd-kernel-android10-x86_64-29-root-magisk-usb-passthrough-linux.4212719/)
 * [X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
 
 ### Notes
